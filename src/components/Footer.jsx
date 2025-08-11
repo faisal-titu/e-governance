@@ -28,6 +28,7 @@ const Footer = () => {
               <li><Link to="/policies/digital" className="text-sm hover:text-green-400">ডিজিটাল গভর্নেন্স</Link></li>
               <li><Link to="/policies/privacy" className="text-sm hover:text-green-400">গোপনীয়তা নীতি</Link></li>
               <li><Link to="/policies/terms" className="text-sm hover:text-green-400">শর্তাবলী</Link></li>
+              <li> <a href="https://drive.google.com/file/d/1eejyRt0ZseCeP2l82oKP9fqCfIUYAdYa/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="text-sm hover:text-green-400">অন্যান্য</a></li>
             </ul>
           </div>
           <div>
